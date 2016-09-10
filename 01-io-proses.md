@@ -125,9 +125,9 @@ int main() {
 }
 ```
 
-### Pelaksanaan Percobaan
+## Pelaksanaan Percobaan
 
-#### Contoh Code Output 1
+### Contoh Code Output 1
 
 ```c
 #include <stdio.h>
@@ -142,7 +142,7 @@ int main() {
 }
 ```
 
-#### Contoh Code Output 2
+### Contoh Code Output 2
 
 ```c
 #include <stdio.h>
@@ -157,7 +157,7 @@ int main() {
 }
 ```
 
-#### Contoh Code Variabel
+### Contoh Code Variabel
 
 ```c
 #include <stdio.h>
@@ -174,7 +174,7 @@ int main() {
 }
 ```
 
-#### Contoh Code Input
+### Contoh Code Input
 
 ```c
 #include <stdio.h>
@@ -193,9 +193,9 @@ int main() {
 }
 ```
 
-### Data dan Analisis Hasil Percobaan
+## Data dan Analisis Hasil Percobaan
 
-#### A. Output
+### A. Output
 
 1.	Jalankan program Output1 – Output2 dan benahi jika menemukan kesalahan! 
 
@@ -211,7 +211,7 @@ int main() {
 
 8.	Dari kedua jenis output tersebut simpulkan dan temukan perbedaannya! 
 
-#### B. Variabel
+### B. Variabel
 
 1.	Jalankan program Variabel dan benahi jika menemukan kesalahan! 
 
@@ -225,13 +225,13 @@ int main() {
 
 6.	Jelaskan perbedaan antara no 4 dan no 5!
 
-#### C. Input
+### C. Input
 
 1.	Jalankan program Input dan benahi jika menemukan kesalahan! 
 
 2.	Tambahkan perintah untuk memasukkan nama dan NIM user dan ditampilkan pada akhir program! 
 
-### Tugas Praktikum
+## Tugas Praktikum
 
 **1)** Buatlah program dengan tampilan sebagai berikut :
 
