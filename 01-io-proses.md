@@ -127,7 +127,7 @@ int main() {
 
 ### Pelaksanaan Percobaan
 
-#### Output 1
+#### Contoh Code Output 1
 
 ```c
 #include <stdio.h>
@@ -142,7 +142,7 @@ int main() {
 }
 ```
 
-#### Output 2
+#### Contoh Code Output 2
 
 ```c
 #include <stdio.h>
@@ -157,7 +157,7 @@ int main() {
 }
 ```
 
-#### Variabel
+#### Contoh Code Variabel
 
 ```c
 #include <stdio.h>
@@ -174,7 +174,7 @@ int main() {
 }
 ```
 
-#### Input
+#### Contoh Code Input
 
 ```c
 #include <stdio.h>
