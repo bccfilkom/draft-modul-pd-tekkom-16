@@ -7,14 +7,14 @@
             "font": {
                 "size": 28,
                 "family": "Roboto Mono",
-                "color": "#0000"
+                "color": "#FFF"
             },
             "size": {
                 "w": 1800,
                 "h": 2360
             },
             "background": {
-                "color": "#FFFF"
+                "color": "#09F"
             }
         }
     }
