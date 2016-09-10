@@ -195,7 +195,41 @@ int main() {
 
 ### Data dan Analisis Hasil Percobaan
 
-tba
+#### A. Output
+
+1.	Jalankan program Output1 – Output2 dan benahi jika menemukan kesalahan! 
+
+2.	Pada program Output1 baris 3 – 6, jelaskan arti dari kode tersebut dan temukan perbedaannya! 
+
+4.	Pada program output1 baris 3 ganti karakter ‘|’ menjadi ‘ab’ amati dan jelaskan! 
+
+5.	Pada program Output1 setelah baris 6 tambahkan kode program dengan syntax `printf("%-30.8s%c\n","Pemrograman C",'|');` kemudian amati perbedaannya dengan baris 6 dan simpulkan! 
+
+6.	Pada program Output2 tambahkan kode program yang mencentak nilai x dengan format 2 angka dibelakang koma! 
+
+7.	Pada program Output2 tambahkan kode berikut `printf("%g  %15e %15.3f\n",x,x,x);` amati apa yang terjadi dan jelaskan! 
+
+8.	Dari kedua jenis output tersebut simpulkan dan temukan perbedaannya! 
+
+#### B. Variabel
+
+1.	Jalankan program Variabel dan benahi jika menemukan kesalahan! 
+
+2.	Setelah baris 5 tambahkan syntax untuk mengurangkan nilai dari variabel nilai dan nilai_2, amati yang terjadi dan jelaskan! (benahi jika menemukan kesalahan)  
+
+3.	Setekah baris 8 tambahkan variabel dengan type data char dengan nama variabel: ch dan mempunyai nilai sama seperti pada variabel s dan amati apa yang terjadi, jelaskan!  
+
+4.	Tambahkan variabel dengan nama nilai3 yang bertipe data integer dan diberi nilai awal 100 kemudian lakukan pembagian yang disimpan pada variabel hasil kemudian cetak menggunakan kelas `printf()`!
+
+5.	Tambahkan variabel dengan nama nilai3 yang bertipe data integer dan diberi nilai awal 100 kemudian lakukan pembagian tanpa harus disimpan disebuah variabel melainkan cetak pada layar menggunakan `printf()`!
+
+6.	Jelaskan perbedaan antara no 4 dan no 5!
+
+#### C. Input
+
+1.	Jalankan program Input dan benahi jika menemukan kesalahan! 
+
+2.	Tambahkan perintah untuk memasukkan nama dan NIM user dan ditampilkan pada akhir program! 
 
 ### Tugas Praktikum
 
