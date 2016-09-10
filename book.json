@@ -4,18 +4,17 @@
     "author": "Basic Computing Community FILKOM UB",
     "pluginsConfig": {
         "autocover": {
-                "font": {
-                    "size": 40,
-                    "family": "Impact",
-                    "color": "#000"
-                },
-                "size": {
-                    "w": 1800,
-                    "h": 2360
-                },
-                "background": {
-                    "color": "#FFF"
-                }
+            "font": {
+                "size": 40,
+                "family": "Impact",
+                "color": "#000"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#FFF"
             }
         }
     }
