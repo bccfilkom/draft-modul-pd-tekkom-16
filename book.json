@@ -1,0 +1,22 @@
+{
+    "plugins": ["autocover"],
+    "title": "Modul Praktikum Pemrograman Dasar Teknik Komputer FILKOM UB 2016",
+    "author": "Basic Computing Community FILKOM UB",
+    "pluginsConfig": {
+        "autocover": {
+                "font": {
+                    "size": 40,
+                    "family": "Impact",
+                    "color": "#000"
+                },
+                "size": {
+                    "w": 1800,
+                    "h": 2360
+                },
+                "background": {
+                    "color": "#FFF"
+                }
+            }
+        }
+    }
+}
