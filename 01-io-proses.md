@@ -63,6 +63,8 @@ float f = 4.51f;
 
 ### Format Specifier
 
+Format specifier adalah penentu format dari suatu variabel yang biasa digunakan untuk formatting nilai variabel di standard output atau di standard input.
+
 Secara umum, format specifier yang sering dipakai sebagai berikut, ini akan digunakan ketika kita memanfaatkan `scanf()` maupun `printf()`.
 
 Format specifier | Tipe data
@@ -87,6 +89,7 @@ Escape character | Penjelasan
 \v | vertical tab
 \\ | backslash
 
+Escape character atau escape sequence ini adalah kombinasi karakter yang diawali dengan backslash `\` dan diikuti dengan karakter huruf atau kombinasi digit. Biasa digunakan untuk menentukan carriage return atau newline di terminal atau printer, dan juga biasa digunakan untuk menyediakan representasi literal dari karakter yang mempunyai makna khusus, misalkan double quote mark `"`.
 
 ### Output
 
