@@ -236,7 +236,9 @@ int main() {
 
 ## Tugas Praktikum
 
-**1)** Buatlah program dengan tampilan sebagai berikut :
+**1)** Carilah format specifier lain yang tersedia di bahasa C selain yang ada di contoh!
+
+**2)** Buatlah program dengan tampilan sebagai berikut :
 
 ```
 Masukkan operator pertama : 3
@@ -247,7 +249,7 @@ Hasil perkalian : 6
 Hasil pembagian : 1.5
 ``` 
 
-**2)** Buatlah program untuk menghitung pemakaian daya listrik dirumah tangga secara
+**3)** Buatlah program untuk menghitung pemakaian daya listrik dirumah tangga secara
 sederhana. Tampilan program sebagai berikut :
 
 ```
