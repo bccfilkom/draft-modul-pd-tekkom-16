@@ -186,8 +186,6 @@ int main() {
 
 int main() {
 
-     int x = 5;
-    ((x==5)) ? printf("Benar\n") : printf("Salah\n");
 
     return 0;
 }
