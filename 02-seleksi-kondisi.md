@@ -295,14 +295,15 @@ t = tinggi badan (m)
 
 Kriteria untuk nilai IMT ditabelkan sebagai berikut :
 
-| Nilai IMT | Tipe Data |
-----------|----------- |
+Nilai IMT | Kriteria
+----------|-----------
 IMT ≤ 18,5 | Kurus
 18,5 < IMT ≤ 25 | Normal
 25 < IMT ≤ 30 | Gemuk
 IMT > 30 | Kegemukan
 
 Susun program dengan tampilan sebagai berikut dengan menggunakan metode if-else!
+
 ```
 Berat badan (kg)    : 45
 Tinggi badan (m)    : 1.72
