@@ -108,7 +108,90 @@ switch (variabel) {
 
 ## Pelaksanaan Percobaan
 
-tba
+### Contoh Code Conditional Assignment
+
+```c
+#include <stdio.h>
+
+int main() {
+
+     int x = 5;
+    ((x==5)) ? printf("Benar\n") : printf("Salah\n");
+
+    return 0;
+}
+```
+
+### Contoh Code If-else
+
+```c
+#include <stdio.h>
+
+int main() {
+    float nilai;
+
+    printf("masukkan nilai : ");
+    scanf("%f",&nilai);
+
+    if (nilai > 60){
+        printf("Anda Lulus\n");
+    } else if (nilai >= 40){
+        printf("Anda harus mengulang\n");
+    } else {
+        printf("Anda gagal\n");
+    }
+
+    return 0;
+}
+```
+### Contoh Code Nested If
+
+```c
+#include <stdio.h>
+
+int main() {
+
+    int nilai;
+
+    printf("masukkan nilai : ");
+    scanf("%d",&nilai);
+
+    if(nilai * 2 < 50){
+        nilai += 10;
+    }
+
+    if (nilai <= 20){
+        printf("Filkom\n");
+        if (nilai % 2 == 1){
+            printf("UB\n");
+        } else{
+            printf("Brawijaya\n");
+        }
+    } else {
+        printf("PTIIK\n");
+        if (nilai % 2 == 1){
+            printf("UB\n");
+        } else {
+            printf("Brawijaya\n");
+        }
+    }
+
+    return 0;
+}
+```
+### Contoh Code Switch case
+
+```c
+#include <stdio.h>
+
+int main() {
+
+     int x = 5;
+    ((x==5)) ? printf("Benar\n") : printf("Salah\n");
+
+    return 0;
+}
+```
 
 ## Data dan Analisis Percobaan
 
