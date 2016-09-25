@@ -217,10 +217,9 @@ Data tak ditemukan, program dihentikan ...
 ``` 
 
 **2)** Untuk menentukan kriteria kegemukan, digunakan IMT (Indeks Massa Tubuh), yang bisa dihitung menggunakan rumus :<Enter>
-IMT = b / (t * t)
-
-b = berat badan (kg)
-t = tinggi badan (m)
+IMT = b / (t * t)<Enter>
+b = berat badan (kg)<Enter>
+t = tinggi badan (m)<Enter>
 Kriteria untuk nilai IMT ditabelkan sebagai berikut :
 
 | Nilai IMT | Tipe Data |
