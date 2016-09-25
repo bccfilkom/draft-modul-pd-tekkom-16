@@ -301,6 +301,7 @@ IMT ≤ 18,5 | Kurus
 18,5 < IMT ≤ 25 | Normal
 25 < IMT ≤ 30 | Gemuk
 IMT > 30 | Kegemukan
+
 Susun program dengan tampilan sebagai berikut dengan menggunakan metode if-else!
 ```
 Berat badan (kg)    : 45
@@ -317,6 +318,7 @@ Masukan yang dibutuhkan oleh program adalah : jumlah jam kerja tiap minggu. Kelu
 Aturan yang diterapkan adalah :
 - Batas kerja maksimal adalah 60 jam / minggu, dengan upah Rp. 5000,- / jam. Kelebihan jam kerja dari batas maksimum akan dianggap sebagai lembur dengan upah Rp. 6000,- /jam.
 - Batas kerja minimal adalah 50 jam / minggu. Apabila pegawai mempunyai jam kerja di bawah batas kerja minimal ini, maka akan dikenakan denda sebesar Rp. 1000, - / jam.
+
 ```
 Jam kerja   : 55
 Upah    = Rp. 275000
