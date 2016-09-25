@@ -193,7 +193,36 @@ int main() {
 
 ## Data dan Analisis Percobaan
 
-tba
+### A. Conditional Assignment
+
+1.	Jalankan Code Conditional Assignment dan benahi jika menemukan kesalahan!
+
+2.	Tambahkan kode dibawah program diatas yang fungsinya meminta inputan user dengan memasukkan nama dan nim masing-masing mahasiswa dan jika benar maka akan mencetak nama dan nim mahasiswa, jika salah maka mencetak “input nama salah” jika memasukkan nama yang salah, “input nim salah” jika memasukka nim yang salah
+
+3.	Buat program yang meminta untuk memasukkan nama dan password kemudian program akan meminta user untuk memasukkan nama dan password sesuai inputan sebelumnya. Jika benar maka program akan mencetak informasi biodata mahasiswa dan jika salah maka program akan mencetak “data tak ditemukan”.
+
+### B. If - Else
+
+1. Jalankan Code If - Else dan benahi jika menemukan kesalahan!
+
+2. Masukkan nilai 30, 60 dan 80 saat program dijalankan, dan jawablah dengan screenshot hasil keluaran dari program!
+
+### C. Nested If
+
+1. Jalankan Code Nested If dan benahi jika menemukan kesalahan!
+
+2. Masukkan nilai 5, 20, 30 saat program dijalankan, jelaskan alur jalan program dan beri screenshot keluaran dari program!
+
+3. Ubah kode diatas dengan memanfaatkan operasi and!
+
+### D. Switch Case
+
+1. Jalankan Code Switch Case dan benahi jika menemukan kesalahan!
+
+2. hapus kode *break* yang ada di program, pengaruh apa yang terjadi setelah pengubahan kode tersebut!
+
+3. Apa perbedaan seleksi kondisi dengan menggunakan switch case dan if-else, dan kapan kita harus menggunakan if-else dan kapan menggunakan switch case?
+
 
 ## Tugas Praktikum
 
