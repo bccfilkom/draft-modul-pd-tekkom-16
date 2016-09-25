@@ -221,8 +221,9 @@ IMT = b / (t * t)
 b = berat badan (kg)
 t = tinggi badan (m)
 Kriteria untuk nilai IMT ditabelkan sebagai berikut :
-Nilai IMT | Tipe Data 
----|-----------
+
+| Nilai IMT | Tipe Data |
+----------|----------- |
 IMT ≤ 18,5 | Kurus
 18,5 < IMT ≤ 25 | Normal
 25 < IMT ≤ 30 | Gemuk
