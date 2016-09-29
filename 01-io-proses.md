@@ -214,6 +214,8 @@ int main() {
 
 8.	Dari kedua jenis output tersebut simpulkan dan temukan perbedaannya! 
 
+9.  Carilah format specifier lain yang tersedia di bahasa C selain yang ada di contoh!
+
 ### B. Variabel
 
 1.	Jalankan program Variabel dan benahi jika menemukan kesalahan! 
@@ -236,9 +238,7 @@ int main() {
 
 ## Tugas Praktikum
 
-**1)** Carilah format specifier lain yang tersedia di bahasa C selain yang ada di contoh!
-
-**2)** Buatlah program dengan tampilan sebagai berikut :
+**1)** Buatlah program dengan tampilan sebagai berikut :
 
 ```
 Masukkan operator pertama : 3
@@ -249,7 +249,7 @@ Hasil perkalian : 6
 Hasil pembagian : 1.5
 ``` 
 
-**3)** Buatlah program untuk menghitung pemakaian daya listrik dirumah tangga secara
+**2)** Buatlah program untuk menghitung pemakaian daya listrik dirumah tangga secara
 sederhana. Tampilan program sebagai berikut :
 
 ```
