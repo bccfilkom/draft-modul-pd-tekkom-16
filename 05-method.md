@@ -178,10 +178,65 @@ int main() {
 
 ## Data dan Analisis Percobaan
 
-tba
+### Method Void
+
+1. Jalankan program prak_void.c dan benahi jika ada kesalahan!
+
+2. Ubahlah deklarasi method `void greeting(char nama[])` menjadi `void greeting(char* nama)`, apa yang terjadi? Jelaskan!
+
+3. Ubahlah `scanf("%s", &nama);` menjadi `scanf("%c", nama);`, apa yang terjadi? Jelaskan!
+
+### Method Return Value
+
+1. Jalankan program prak_retval.c dan benahi jika ada kesalahan!
+
+2. Mengapa di method `main()` harus mengembalikan nilai 0? Jelaskan!
+
+3. Ubahlah method signature `int faktorial(int n)` menjadi `float faktorial(int n)`, apa yang terjadi? Jelaskan!
+
+### Method rekursif
+
+1. Jalankan program prak_rekursif.c dan benahi jika ada kesalahan!
+
+2. Ubahlah `return (n == 1) ? 1 : n * faktorial(n - 1);` menjadi `return faktorial(n-1)`, apa yang terjadi? Jelaskan!
+
+3. Gambarkan proses rekursif yang terjadi dalam program tersebut!
+
+### Pass by reference
+
+1. Jalankan program dan benahi jika ada kesalahan!
+
+2. Ubahlah `void multiplyArray(int *arr, int length, int multiplier)` menjadi `void multiplyArray(int arr[], int length, int multiplier)`, apa yang terjadi? Jelaskan!
+
+3. Jelaskan mengapa `sizeof(array) / sizeof(*array)` akan mengembalikan panjang dari array!
 
 ## Tugas Praktikum
 
 **1)** Buatlah program untuk menentukan apakah bilangan tersebut bilangan prima atau bukan dengan menginputkan sebuah bilangan yang di inginkan. Setelah itu program akan mengoutputkan bilangan prima 1-100!
 
-**2)** Buatlah program yang akan menghasilkan deret 25 bilangan pertama fibonacci!
+**2)** Buatlah program yang akan menghasilkan segitiga pascal seperti dibawah ini
+
+```
+n = 10
+
+                       1
+                     1   1
+                   1   2   1
+                 1   3   3   1
+               1   4   6   4   1
+             1   5  10  10   5   1
+           1   6  15  20  15   6   1
+         1   7  21  35  35  21   7   1
+       1   8  28  56  70  56  28   8   1
+     1   9  36  84 126 126  84  36   9   1
+```
+
+**3)** Buatlah sebuah program yang terdiri dari beberapa operasi terhadap matriks. Berikut ini daftar method yang harus diimplementasikan
+
+```
+void addition(int *dest, int *a, int *b)
+void subtraction(int *dest, int *a, int *b)
+void multiplication(int *dest, int *a, int *b)
+int isDiagonalMatrix(int *source) // return 0 if not, else return 1
+int isIdentityMatrix(int *source) // return 0 if not, else return 1
+```
