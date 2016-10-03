@@ -23,7 +23,7 @@ akan melakukan pernytaan salah.
 Contoh : 
 
 ```
-char s[] = (5>2) ? "Berhasil" : "Gagal";
+int m = (5%2==0) ? 1 : 0;
 ```
 
 Jika program tersebut dijalankan maka akan mencetak "Berhasil" kondisi pada
