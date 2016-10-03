@@ -234,9 +234,9 @@ n = 10
 **3)** Buatlah sebuah program yang terdiri dari beberapa operasi terhadap matriks. Berikut ini daftar method yang harus diimplementasikan
 
 ```
-void addition(int *dest, int *a, int *b)
-void subtraction(int *dest, int *a, int *b)
-void multiplication(int *dest, int *a, int *b)
-int isDiagonalMatrix(int *source) // return 0 if not, else return 1
-int isIdentityMatrix(int *source) // return 0 if not, else return 1
+void addition(int dest[][dest_cols], int a[][a_cols], int b[][b_cols])
+void subtraction(int dest[][dest_cols], int a[][a_cols], int b[][b_cols])
+void multiplication(int dest[][dest_cols], int a[][a_cols], int b[][b_cols])
+int isDiagonalMatrix(int source[][source_cols]) // return 0 if not, else return 1
+int isIdentityMatrix(int source[][source_cols]) // return 0 if not, else return 1
 ```
